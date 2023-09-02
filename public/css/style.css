@@ -1,0 +1,26 @@
+body, html {
+    background: rgb(38, 39, 39);
+}
+
+.navbar-custom {
+    background: black;
+}
+
+.container, .container-fluid {
+    overflow: hidden;
+}
+
+p {
+    color:grey;
+    font-size: 21px;
+}
+
+h1 {
+    color: white;
+    font-size: 48px;
+}
+
+hr {
+    border-color: grey;
+    opacity: 0.6;
+}
